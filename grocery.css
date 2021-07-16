@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 0;
+    overflow: hidden;
+    width: 100%;
+    background-color:green;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  h1{
+    text-align: center;
+    
+  }
+  h2{
+    text-align: center;
+    color: cyan;
+  }
+  h3{
+    text-align: center;
+    color: cyan;
+  }
+
+  body{
+    background-color: darkgray;
+  }
+  hr{
+    height: 100px;
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: salmon;
+
+  }
+
+
+
+
+
+  
